@@ -72,7 +72,6 @@ func (s spell) Value() int {
 }
 
 type Player struct {
-	name   string
 	health int
 }
 
